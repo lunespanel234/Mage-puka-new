@@ -41,7 +41,7 @@ Horizon md is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Bas
 
 
  
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/CYBER-ASHUU-OFC/NEXUS-BEATS-XMD)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/lunespanel234/Mage-puka-new)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
